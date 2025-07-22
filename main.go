@@ -58,5 +58,6 @@ func main() {
 	//service
 	//image
 	//container name
+	fmt.Println("hello from feature")
 
 }
